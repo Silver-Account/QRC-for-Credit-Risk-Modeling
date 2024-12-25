@@ -17,3 +17,14 @@ To assist in this task, here are some useful resources on Quantum Reservoir Comp
 2. <a href="https://arxiv.org/abs/2405.04799">Advanced Techniques in QRC</a>
 
 3. <a href="https://arxiv.org/pdf/2407.02553">Applications of QRC in Quantum Systems</a>
+
+----
+
+Note:
+Required installation code (assuming numpy, matplotlib etc. standard libraries are already installed):
+!pip install pennylane-qiskit scikit-learn xgboost pandas
+
+----
+Also I uploaded the dataset in Kaggle and used the platform to implement the first part. If you are running the notebooks in local PC or Laptop, keep the notebook and the datatset in one file and change the directory in the notebook for loading data accordingly. 
+
+
